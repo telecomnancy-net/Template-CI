@@ -1,0 +1,7 @@
+{
+    "name": "CI TN.NET",
+    "description": "Workflow de base pour TN NET",
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
